@@ -1,28 +1,43 @@
-# UBUWareHouse
-Práctica 1 de Validación y Pruebas - Grado en Ingeniería Informática
 
-## Descripción
-UBUWareHouse es una prueba de concepto de una aplicación web que permite la gestión de un sistema de almacenamiento doméstico. Esta aplicación ha sido desarrollada como parte de la asignatura **Validación y Pruebas** de la Universidad de Burgos, utilizando **ASP.NET WebForms** y **C#** en **Visual Studio Community 2022**.
+--------------------------------------------------------------------------------
+AUTOR:
+--------------------------------------------------------------------------------
 
-La aplicación permite a los usuarios registrados gestionar contenedores (espacios, armarios, estanterías, cajas) y los artículos almacenados en ellos. Incluye un sistema básico de autenticación, con soporte para usuarios administradores y estándar.
+Autores: José María Santos, Ismael Manzanera López
+Emails: jsr1002@alu.ubu.es, iml1012@alu.ubu.es
 
-## Funcionalidades
-- Autenticación de usuarios mediante email y contraseña.
-- Gestión de contenedores y artículos.
-- Simulación de una base de datos utilizando listas de objetos (`DBPruebas`).
-- Acceso administrativo para la gestión de usuarios.
-- Registro de accesos y log de actividad del sistema.
-- Cifrado de información sensible (contraseñas).
+Fecha: [Fecha Actual]
 
-## Requisitos
-- **Visual Studio Community 2022**
-- **.NET Framework 4.8**
-- **ASP.NET WebForms**
-- **Git** para el control de versiones.
+--------------------------------------------------------------------------------
+DESCRIPCIÓN:
+--------------------------------------------------------------------------------
 
-## Instalación
-1. **Clonar el repositorio**
-   Clona este repositorio en tu máquina local usando el siguiente comando en la terminal o en Git Bash:
+Este proyecto implementa ASP.NET WebForms y C#.
+
+Se proporcionan las instrucciones necesarias para la puesta en marcha, pruebas y ejecución del proyecto.
+Es importante no modificar la estructura básica del código para garantizar el correcto funcionamiento del sistema.
+
+--------------------------------------------------------------------------------
+REQUISITOS:
+--------------------------------------------------------------------------------
+
+1. Visual Studio Community 2022 instalado.
+2. .NET Framework 4.8 o superior.
+3. Cuenta en GitHub para el control de versiones colaborativo.
+
+--------------------------------------------------------------------------------
+EJECUCIÓN:
+--------------------------------------------------------------------------------
+
+Para iniciar la aplicación web UBUWareHouse:
+
+1. Clonar el repositorio desde GitHub.
    ```bash
-   git clone https://github.com/tu_usuario/UBUWareHouse.git
+   git clone https://github.com/JosemaING/UBUWareHouse10.git
+   ```
+2. Abrir el proyecto en Visual Studio Community 2022.
+3. Compilar el proyecto usando la opción **Build > Build Solution**.
+4. Ejecutar el proyecto seleccionando IIS Express o el servidor web disponible.
+5. Acceder al sitio web en `http://localhost:xxxx` (el puerto dependerá de tu configuración local).
 
+--------------------------------------------------------------------------------
