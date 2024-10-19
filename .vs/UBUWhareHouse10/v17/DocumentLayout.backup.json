@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\",
+  "WorkspaceRootPath": "D:\\GitHub\\UBUWareHouse10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FF05CB5-0650-4BCE-BE0D-75E7E6D40651}|UBULibTests\\UBULibTests.csproj|d:\\estudios\\visual studio community\\practica 1\\ubuwharehouse10\\ubulibtests\\utilidadestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF05CB5-0650-4BCE-BE0D-75E7E6D40651}|UBULibTests\\UBULibTests.csproj|solutionrelative:ubulibtests\\utilidadestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{410DAD50-434B-40FD-90AC-07583AD603FC}|UBULib\\UBULib.csproj|d:\\estudios\\visual studio community\\practica 1\\ubuwharehouse10\\ubulib\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{410DAD50-434B-40FD-90AC-07583AD603FC}|UBULib\\UBULib.csproj|d:\\github\\ubuwarehouse10\\ubulib\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{410DAD50-434B-40FD-90AC-07583AD603FC}|UBULib\\UBULib.csproj|solutionrelative:ubulib\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,30 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UtilidadesTests.cs",
-              "DocumentMoniker": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\UBULibTests\\UtilidadesTests.cs",
-              "RelativeDocumentMoniker": "UBULibTests\\UtilidadesTests.cs",
-              "ToolTip": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\UBULibTests\\UtilidadesTests.cs",
-              "RelativeToolTip": "UBULibTests\\UtilidadesTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T20:22:44.008Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Utilidades.cs",
-              "DocumentMoniker": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\UBULib\\Utilidades.cs",
+              "DocumentMoniker": "D:\\GitHub\\UBUWareHouse10\\UBULib\\Utilidades.cs",
               "RelativeDocumentMoniker": "UBULib\\Utilidades.cs",
-              "ToolTip": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\UBULib\\Utilidades.cs",
+              "ToolTip": "D:\\GitHub\\UBUWareHouse10\\UBULib\\Utilidades.cs",
               "RelativeToolTip": "UBULib\\Utilidades.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T19:55:37.576Z",
               "EditorCaption": ""

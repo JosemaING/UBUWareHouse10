@@ -29,6 +29,7 @@ namespace UBULib
 
             int contador = 0;
 
+            // Comprobaciones para conocer si cumple los requisitos la contraseña.
             if (password.Length > 0) contador++;
             if (password.Length < 16) contador++;
             if (password.Intersect(caracteres).Count() > 0) contador++;

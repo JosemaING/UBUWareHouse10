@@ -4,3 +4,9 @@ D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULib\obj\Debug\
 D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULib\obj\Debug\UBULib.csproj.CoreCompileInputs.cache
 D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULib\obj\Debug\UBULib.dll
 D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULib\obj\Debug\UBULib.pdb
+D:\GitHub\UBUWareHouse10\UBULib\bin\Debug\UBULib.dll
+D:\GitHub\UBUWareHouse10\UBULib\bin\Debug\UBULib.pdb
+D:\GitHub\UBUWareHouse10\UBULib\obj\Debug\UBULib.csproj.AssemblyReference.cache
+D:\GitHub\UBUWareHouse10\UBULib\obj\Debug\UBULib.csproj.CoreCompileInputs.cache
+D:\GitHub\UBUWareHouse10\UBULib\obj\Debug\UBULib.dll
+D:\GitHub\UBUWareHouse10\UBULib\obj\Debug\UBULib.pdb
