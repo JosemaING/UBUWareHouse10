@@ -19,7 +19,6 @@ namespace UBULib
             return (System.Text.Encoding.ASCII.GetString(bytes));
         }
 
-        // Hola
         // Función para comprobar el tipo de complejidad de una contraseña
         public int CompruebaPassword(string password) {
 
