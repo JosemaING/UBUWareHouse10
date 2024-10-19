@@ -40,5 +40,18 @@ namespace UBULib
             return (contador);
         }
 
+        // Función para verificar la fortaleza de una contraseña
+        public string VerificaFortalezaPassword(string password)
+        {
+            int puntaje = CompruebaPassword(password);
+
+            if (puntaje <= 2)
+                return "Débil";
+            else if (puntaje <= 4)
+                return "Moderada";
+            else
+                return "Fuerte";
+        }
+
     }
 }
