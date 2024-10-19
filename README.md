@@ -7,7 +7,7 @@ Autores: José María Santos, Ismael Manzanera López
 
 Emails: jsr1002@alu.ubu.es, iml1012@alu.ubu.es
 
-Fecha: [Fecha Actual]
+Fecha: 19/10/2024
 
 --------------------------------------------------------------------------------
 DESCRIPCIÓN:
