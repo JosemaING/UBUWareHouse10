@@ -27,10 +27,22 @@ namespace UBULib.Tests
             Assert.AreNotEqual(utilidades.Encriptar(password0), utilidades.Encriptar(password3));
         }
 
-        [TestMethod()]
-        public void CompruebaPasswordTest()
+        [DataTestMethod]
+        [DataRow("abc123", 4)]
+        [DataRow("ABCDEFG", 3)]
+        [DataRow("!@#$$", 3)]
+        [DataRow("abcdef", 3)]
+        [DataRow("123456", 3)]
+        [DataRow("Aa1!2345", 6)]
+        [DataRow("abcdefghijklmnop", 3)]
+        [DataRow("A1!", 5)]
+        [DataRow("", 0)]
+        [DataRow("LongPassword123!", 6)]
+        public void CompruebaPasswordTest(string cadena, int esperado)
         {
-            Assert.Fail();
+            Utilidades utilidades = new Utilidades();
+
+            Assert.IsTrue(utilidades.CompruebaPassword(cadena) == esperado, cadena);
         }
     }
 }
