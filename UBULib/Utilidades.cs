@@ -30,7 +30,7 @@ namespace UBULib
         }
 
         // Función para comprobar el tipo de complejidad de una contraseña
-        public int CompruebaPassword(string password) {
+                public int CompruebaPassword(string password) {
 
 
             string caracteres = "abcdefghijklmnopqrstuvwxyz";
@@ -39,15 +39,57 @@ namespace UBULib
 
             int contador = 0;
 
-            if (password.Length > 0) contador++;
-            if (password.Length < 16) contador++;
-            if (password.Intersect(caracteres).Count() > 0) contador++;
-            if (password.Intersect(numeros).Count() > 0) contador++;
-            if (password.Intersect(caracteres.ToUpper()).Count() > 0) contador++;
-            if (password.Intersect(especiales).Count() > 0) contador++;
+//            if (password.Length > 0)
+//            {
+//                contador++;
+//#if DEBUG
+//                Console.WriteLine("+1: Mayor a cero");
+//#endif
+//            }
+            if (password.Length <= 16 && password.Length > 0)
+            {
+                contador =+ 2;
+#if DEBUG
+                Console.WriteLine("+2: Menor o igual a 16 y mayor de 0.");
+#endif
+            }
+            if (password.Intersect(caracteres).Any())
+            {
+                contador++;
+#if DEBUG
+                Console.WriteLine("+1: Detectado letras minúsculas");
+#endif
+            }
+            if (password.Intersect(numeros).Any())
+            {
+                contador++;
+#if DEBUG
+                Console.WriteLine("+1: Detectado números.");
+#endif
+            }
+            if (password.Intersect(caracteres.ToUpper()).Any())
+            {
+                contador++;
+#if DEBUG
+                Console.WriteLine("+1: Detectado mayúsculas");
+#endif
+            }
+            if (password.Intersect(especiales).Any())
+            {
+                contador++;
+#if DEBUG
+                Console.WriteLine("+1: Detectado símbolos especiales");
+#endif
+            }
 
+
+#if DEBUG
+            Console.WriteLine($"Password: {password}, Count: {contador}");
+#endif
             return (contador);
         }
+
+    }
 
         // Función para verificar la fortaleza de una contraseña
         public string VerificaFortalezaPassword(string password)
