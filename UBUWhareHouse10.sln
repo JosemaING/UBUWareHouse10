@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBULib", "UBULib\UBULib.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBULibTests", "UBULibTests\UBULibTests.csproj", "{0FF05CB5-0650-4BCE-BE0D-75E7E6D40651}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib", "ClassLib\ClassLib.csproj", "{F65B78D3-FD93-4167-8656-28C5EB1757D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibTests", "ClassLibTests\ClassLibTests.csproj", "{05D2732E-4E19-44EE-A75D-1148CE3E416D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{0FF05CB5-0650-4BCE-BE0D-75E7E6D40651}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FF05CB5-0650-4BCE-BE0D-75E7E6D40651}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FF05CB5-0650-4BCE-BE0D-75E7E6D40651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65B78D3-FD93-4167-8656-28C5EB1757D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65B78D3-FD93-4167-8656-28C5EB1757D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65B78D3-FD93-4167-8656-28C5EB1757D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65B78D3-FD93-4167-8656-28C5EB1757D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D2732E-4E19-44EE-A75D-1148CE3E416D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D2732E-4E19-44EE-A75D-1148CE3E416D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D2732E-4E19-44EE-A75D-1148CE3E416D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D2732E-4E19-44EE-A75D-1148CE3E416D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

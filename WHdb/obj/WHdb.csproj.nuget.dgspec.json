@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\WHdb\\WHdb.csproj": {}
+  },
+  "projects": {
+    "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\ClassLib\\ClassLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\ClassLib\\ClassLib.csproj",
+        "projectName": "ClassLib",
+        "projectPath": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\ClassLib\\ClassLib.csproj",
+        "packagesPath": "C:\\Users\\Manza\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\ClassLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Aplicaciones\\VS Tools 2022\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Manza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\UBULib\\UBULib.csproj": {
+                "projectPath": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\UBULib\\UBULib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\UBULib\\UBULib.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\UBULib\\UBULib.csproj",
+        "projectName": "UBULib",
+        "projectPath": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\UBULib\\UBULib.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\WHdb\\WHdb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\WHdb\\WHdb.csproj",
+        "projectName": "WHdb",
+        "projectPath": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\WHdb\\WHdb.csproj",
+        "packagesPath": "C:\\Users\\Manza\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\WHdb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Aplicaciones\\VS Tools 2022\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Manza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\ClassLib\\ClassLib.csproj": {
+                "projectPath": "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\ClassLib\\ClassLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
