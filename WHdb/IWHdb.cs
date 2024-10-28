@@ -1,6 +1,7 @@
-using ClassLib;
+﻿using ClassLib;
+using System;
 
-namespace WHdb
+namespace UBUWHdb
 {
     internal interface IWHdb
     {
