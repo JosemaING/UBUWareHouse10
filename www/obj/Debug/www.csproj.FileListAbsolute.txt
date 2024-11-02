@@ -59,3 +59,9 @@ C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\www\obj\Debug\www.csproj.
 C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\www\obj\Debug\www.csproj.Up2Date
 C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\www\obj\Debug\www.dll
 C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\www\obj\Debug\www.pdb
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\www\obj\Debug\www.csproj.AssemblyReference.cache
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\www\obj\Debug\www.WebForm1.resources
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\www\obj\Debug\www.csproj.GenerateResource.cache
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\www\obj\Debug\www.csproj.CoreCompileInputs.cache
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\www\obj\Debug\www.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\www\obj\Debug\www.pdb
