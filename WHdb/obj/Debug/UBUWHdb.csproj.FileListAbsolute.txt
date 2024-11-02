@@ -1,0 +1,2 @@
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\WHdb\obj\Debug\UBUWHdb.csproj.AssemblyReference.cache
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\WHdb\obj\Debug\UBUWHdb.csproj.CoreCompileInputs.cache
