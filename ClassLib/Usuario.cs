@@ -1,3 +1,5 @@
+﻿using System;
+using System.Collections.Generic;
 using UBULib;
 
 namespace ClassLib
@@ -38,7 +40,7 @@ namespace ClassLib
         public Usuario(string nombre, string apellidos, string email, string password, bool cuentagratuita)
         {
             Nombre = nombre ?? throw new ArgumentNullException(nameof(nombre));
-            Apellidos = apellidos ?? throw new ArgumentNullException(nameof(apellidos));
+            Apellidos = apellidos ?? throw new ArgumentNullException(nameof(apellidos));  
             Email = email ?? throw new ArgumentNullException(nameof(email));
             Password = password ?? throw new ArgumentNullException(nameof(password));
             EsGestor = false;
@@ -51,16 +53,5 @@ namespace ClassLib
         }
 
 
-
-        public override bool Equals(object? obj)
-        {
-            return obj is Usuario usuario &&
-                   Email == usuario.Email;
-        }
-
-        public override int GetHashCode()
-        {
-            return HashCode.Combine(Email);
-        }
     }
 }
