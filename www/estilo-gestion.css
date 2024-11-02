@@ -1,0 +1,96 @@
+﻿/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f5f5f5;
+}
+
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 1200px;
+}
+
+/* Encabezado */
+h1 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Mensaje */
+#lblMensaje {
+    display: block;
+    font-size: 14px;
+    color: #28a745;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Entradas de texto */
+asp\:TextBox {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #333;
+}
+
+    asp\:TextBox::placeholder {
+        color: #aaa;
+    }
+
+/* Botones */
+asp\:Button {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px 0;
+    font-size: 14px;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+    asp\:Button:hover {
+        background-color: #0056b3;
+    }
+
+/* Estilos para la tabla */
+asp\:GridView {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+    asp\:GridView th, asp\:GridView td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    asp\:GridView th {
+        background-color: #f0f0f0;
+        font-weight: bold;
+    }
+
+    asp\:GridView td {
+        font-size: 14px;
+    }
+
+    asp\:GridView tr:hover {
+        background-color: #f9f9f9;
+    }

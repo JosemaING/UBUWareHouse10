@@ -7,7 +7,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{26461AC0-873F-45E3-BF6E-07857353EA79}</ProjectGuid>
+    <ProjectGuid>{4A616100-5443-4963-8E3B-AB513497D71A}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -67,17 +67,45 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="estilo-gestion.css" />
+    <Content Include="estilo-componentes.css" />
+    <Content Include="gestionUsuarios.aspx" />
+    <Content Include="registro.aspx" />
+    <Content Include="inicio-sesion.css" />
+    <Content Include="registro.css" />
     <Content Include="Web.config" />
-    <Content Include="WebForm1.aspx" />
+    <Content Include="inicio.aspx" />
+    <Content Include="componentes.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="gestionUsuarios.aspx.cs">
+      <DependentUpon>gestionUsuarios.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="gestionUsuarios.aspx.designer.cs">
+      <DependentUpon>gestionUsuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="registro.aspx.cs">
+      <DependentUpon>registro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="registro.aspx.designer.cs">
+      <DependentUpon>registro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="inicio.aspx.cs">
+      <DependentUpon>inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="inicio.aspx.designer.cs">
+      <DependentUpon>inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="componentes.aspx.cs">
+      <DependentUpon>componentes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="componentes.aspx.designer.cs">
+      <DependentUpon>componentes.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -90,14 +118,17 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="WebForm1.aspx.resx">
-      <DependentUpon>WebForm1.aspx.cs</DependentUpon>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\WHdb\WHdb.csproj">
-      <Project>{681ab783-5e31-4384-bfa1-9e847f12e3e3}</Project>
-      <Name>WHdb</Name>
+    <ProjectReference Include="..\ClassLib\ClassLib.csproj">
+      <Project>{e1e68cc5-5fdb-426f-9497-ece0237374f7}</Project>
+      <Name>ClassLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UBULib\UBULib.csproj">
+      <Project>{2D3852AB-29CB-4DC6-AC36-F0F10D03FB76}</Project>
+      <Name>UBULib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UBUWHdb\UBUWHdb.csproj">
+      <Project>{cd36c5f1-7dc4-491e-8f96-f8387f6a83c5}</Project>
+      <Name>UBUWHdb</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
@@ -113,9 +144,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>58256</DevelopmentServerPort>
+          <DevelopmentServerPort>55238</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:58256/</IISUrl>
+          <IISUrl>http://localhost:64447/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
