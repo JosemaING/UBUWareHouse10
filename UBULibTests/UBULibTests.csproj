@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0FF05CB5-0650-4BCE-BE0D-75E7E6D40651}</ProjectGuid>
+    <ProjectGuid>{DB043F6A-A64D-45CA-BEAB-F193D11EA9D2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>UBULibTests</RootNamespace>
@@ -63,7 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UBULib\UBULib.csproj">
-      <Project>{410DAD50-434B-40FD-90AC-07583AD603FC}</Project>
+      <Project>{2D3852AB-29CB-4DC6-AC36-F0F10D03FB76}</Project>
       <Name>UBULib</Name>
     </ProjectReference>
   </ItemGroup>
