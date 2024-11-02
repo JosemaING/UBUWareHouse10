@@ -1,3 +1,9 @@
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULib\bin\Debug\UBULib.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULib\bin\Debug\UBULib.pdb
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULib\obj\Debug\UBULib.csproj.AssemblyReference.cache
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULib\obj\Debug\UBULib.csproj.CoreCompileInputs.cache
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULib\obj\Debug\UBULib.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULib\obj\Debug\UBULib.pdb
 D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULib\bin\Debug\UBULib.dll
 D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULib\bin\Debug\UBULib.pdb
 D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULib\obj\Debug\UBULib.csproj.AssemblyReference.cache

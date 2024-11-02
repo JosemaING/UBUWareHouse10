@@ -1,4 +1,4 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using UBULib;
 using System;
 using System.Collections.Generic;
@@ -44,5 +44,35 @@ namespace UBULib.Tests
 
             Assert.IsTrue(utilidades.CompruebaPassword(cadena) == esperado, cadena);
         }
+
+        [DataTestMethod]
+        [DataRow("abc123", "Débil")]
+        [DataRow("ABCDEFG", "Débil")]
+        [DataRow("!@#$$", "Débil")]
+        [DataRow("Aa1", "Moderada")]
+        [DataRow("Aa1!", "Fuerte")]
+        public void VerificaFortalezaPasswordTest(string password, string esperado)
+        {
+            Utilidades utilidades = new Utilidades();
+
+            Assert.AreEqual(esperado, utilidades.VerificaFortalezaPassword(password), $"Contraseña: {password}");
+        }
+
+
+        [TestMethod]
+        public void GenerarContrasenaSeguraTest()
+        {
+            Utilidades utilidades = new Utilidades();
+
+            // Genera una contraseña de longitud específica
+            string contrasena = utilidades.GenerarContrasenaSegura(16);
+            Assert.AreEqual(16, contrasena.Length);
+
+            // Comprueba que contenga solo caracteres válidos
+            const string caracteresPermitidos = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789[]{}()!¡¿?=.,;:|@#$€+*/_-";
+            Assert.IsTrue(contrasena.All(c => caracteresPermitidos.Contains(c)), "La contraseña contiene caracteres no permitidos.");
+        }
+
     }
+
 }

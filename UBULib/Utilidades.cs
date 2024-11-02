@@ -9,16 +9,6 @@ namespace UBULib
 {
     public class Utilidades{
 
-        // Variables para el manejo de intentos fallidos y bloqueo de cuenta
-        private int intentosFallidos;
-        private const int MaxIntentosFallidos = 5;
-        private DateTime? bloqueoHasta;
-
-        // Variables para el manejo del histórico de contraseñas
-        private List<string> contrasenasAntiguas = new List<string>();
-        private const int MaxHistorico = 5;
-
-
         // Función para encriptar una cadena de texto.
         public string Encriptar(string password) {
 
@@ -30,10 +20,9 @@ namespace UBULib
         }
 
         // Función para comprobar el tipo de complejidad de una contraseña
-                public int CompruebaPassword(string password) {
+        public int CompruebaPassword(string password) {
 
-
-            string caracteres = "abcdefghijklmnopqrstuvwxyz";
+            string caracteres = "abcdefghijklmnñopqrstuvwxyz";
             string numeros = "0123456789";
             string especiales = "[]{}()!¡¿?=.,;:|@#$€+*/_-";
 
@@ -89,7 +78,6 @@ namespace UBULib
             return (contador);
         }
 
-    }
 
         // Función para verificar la fortaleza de una contraseña
         public string VerificaFortalezaPassword(string password)
@@ -104,35 +92,11 @@ namespace UBULib
                 return "Fuerte";
         }
 
-        // Función para gestionar intentos fallidos y bloqueo temporal de la cuenta
-        public bool IntentoFallido()
-        {
-            if (bloqueoHasta.HasValue && DateTime.Now < bloqueoHasta.Value)
-            {
-                return false; // Cuenta bloqueada, no permitir intentos
-            }
-
-            intentosFallidos++;
-
-            if (intentosFallidos >= MaxIntentosFallidos)
-            {
-                bloqueoHasta = DateTime.Now.AddMinutes(15); // Bloqueo por 15 minutos
-                return false; // Bloquear cuenta
-            }
-
-            return true; // Permitir otro intento
-        }
-
-        public void ResetearIntentos()
-        {
-            intentosFallidos = 0;
-            bloqueoHasta = null;
-        }
 
         // Función para generar una contraseña segura
         public string GenerarContrasenaSegura(int longitud = 16)
         {
-            const string caracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_-+=[{]};:<>|./?";
+            const string caracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789[]{}()!¡¿?=.,;:|@#$€+*/_-";
             StringBuilder contrasena = new StringBuilder();
             Random random = new Random();
 
@@ -142,21 +106,6 @@ namespace UBULib
             }
 
             return contrasena.ToString();
-        }
-
-        // Función para verificar y guardar el histórico de contraseñas
-        public bool EsContrasenaReutilizada(string nuevaContrasena)
-        {
-            return contrasenasAntiguas.Contains(nuevaContrasena);
-        }
-
-        public void GuardarContrasena(string contrasena)
-        {
-            if (contrasenasAntiguas.Count >= MaxHistorico)
-            {
-                contrasenasAntiguas.RemoveAt(0); // Eliminar la más antigua si se supera el límite
-            }
-            contrasenasAntiguas.Add(contrasena);
         }
 
     }
