@@ -6,7 +6,7 @@ namespace ClassLib
 {
     public class Usuario
     {
-        private int _idUsuario;
+        private int _idUsuario = -1;
         private string _nombre;
         private string _apellidos;
         private string _email;
@@ -18,8 +18,8 @@ namespace ClassLib
         private DateTime _ultimoInicioSesion;
         private DateTime _caducidadPassword;
         private List<String> _passwordAnteriores;
-        private const int CANTIDAD_PASSWORD_RECORDADAS = 5;
-        private const int CANTIDAD_MAXIMO_PROYECTOS = 3;
+        public const int CANTIDAD_PASSWORD_RECORDADAS = 5;
+        public const int CANTIDAD_MAXIMO_PROYECTOS = 3;
         //private List<Elemento> espacios = new List<Elemento>();
 
         Utilidades utilidades = new Utilidades();
@@ -34,7 +34,7 @@ namespace ClassLib
         public bool Cuentagratuita { get => _cuentagratuita; set => _cuentagratuita = value; }
         public DateTime Caducidad { get => _caducidad;}
         public DateTime UltimoInicioSesion { get => _ultimoInicioSesion;}
-        public DateTime CaducidadPassword { get => _caducidadPassword;}
+        public DateTime CaducidadPassword { get => _caducidadPassword; set => _caducidadPassword = value; }
         public List<string> PasswordAnteriores { get => _passwordAnteriores; set => _passwordAnteriores = value; }
 
         public Usuario(string nombre, string apellidos, string email, string password, bool cuentagratuita)
@@ -42,14 +42,29 @@ namespace ClassLib
             Nombre = nombre ?? throw new ArgumentNullException(nameof(nombre));
             Apellidos = apellidos ?? throw new ArgumentNullException(nameof(apellidos));  
             Email = email ?? throw new ArgumentNullException(nameof(email));
-            Password = password ?? throw new ArgumentNullException(nameof(password));
+            Password = utilidades.Encriptar(password);
             EsGestor = false;
-            Activo = false;
+            Activo = true;
             Cuentagratuita = cuentagratuita;
             _caducidad = System.DateTime.Now;
             _ultimoInicioSesion = System.DateTime.MinValue;
             _caducidadPassword = System.DateTime.Now;
             PasswordAnteriores = new List<String>();
+        }
+
+        public bool CompruebaPassword(string passwd)
+        {
+            // Encriptamos la contraseña ingresada por el usuario
+            string hashedInput = utilidades.Encriptar(passwd);
+
+            // Comparamos el hash de la entrada con el hash almacenado
+            if (_password.Equals(hashedInput))
+            {
+                // Si coinciden, actualizamos la fecha del último inicio de sesión
+                _ultimoInicioSesion = DateTime.Now;
+                return true;
+            }
+            return false;
         }
 
 

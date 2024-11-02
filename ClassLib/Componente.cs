@@ -9,33 +9,42 @@ namespace ClassLib
 {
     public class Componente
     {
-        private int _idElemento = -1;
-        private string _nomElemento = "";
-        private string _desElemento = "";
+        // Variable estática para el contador de ID
+        private static int contadorId = 0;
 
-        public Componente(string nomElemento, string desElemento) {
+        private int _idElemento; // ID de la nota
+        private int _identificadorUsuario; // ID del usuario que crea la nota
+        private string _nomElemento; // Nombre de la nota
+        private string _desElemento; // Contenido de la nota
 
-            if (string.IsNullOrWhiteSpace(nomElemento)) {
-                throw new ArgumentNullException();
+        public Componente(int identificadorUsuario, string nomElemento, string desElemento)
+        {
+            if (string.IsNullOrWhiteSpace(nomElemento))
+            {
+                throw new ArgumentNullException(nameof(nomElemento));
             }
-          
-            IdElemento = -1;
+
+            // Asignar el próximo ID único y luego incrementar el contador
+            _idElemento = ++contadorId;
+            _identificadorUsuario = identificadorUsuario;
             _nomElemento = nomElemento;
             _desElemento = desElemento;
         }
 
+        // Propiedades
         public string NomElemento { get => _nomElemento; set => _nomElemento = value; }
-        protected string DesElemento { get => _desElemento; set => _desElemento = value; }
-        protected int IdElemento { get => _idElemento; set => _idElemento = value; }
+        public string DesElemento { get => _desElemento; set => _desElemento = value; }
+        public int IdElemento { get => _idElemento; }
+        public int IdentificadorUsuario { get => _identificadorUsuario; set => _identificadorUsuario = value; }
 
-
-        public class Division : Componente {
-
+        public class Division : Componente
+        {
             private List<Componente> contenido;
 
             public List<Componente> Contenido { get => contenido; set => contenido = value; }
 
-            public Division(String _nomElemento, string _desElemento)
+            // Llamada al constructor base
+            public Division(int identificadorUsuario, string nomElemento, string desElemento) : base(identificadorUsuario, nomElemento, desElemento)
             {
                 contenido = new List<Componente>();
             }
@@ -44,11 +53,6 @@ namespace ClassLib
             {
                 return contenido.Count;
             }
-
-
         }
-        
-
-
     }
 }

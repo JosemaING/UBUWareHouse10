@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ClassLib
 {
-    internal class EntradaLog
+    public class EntradaLog
     {
         private DateTime _fechaEvento;
         private string _usuario;
