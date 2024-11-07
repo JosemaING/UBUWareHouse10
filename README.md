@@ -62,6 +62,7 @@ RECOMENDACIONES PARA EL CORRECTO FUNCIONAMIENTO DE LA WEB:
 1. Los tests están configurados para realizar las pruebas a `http://localhost:64447`.
 2. Si Visual Studio Community 2022 despliega la web en otro puerto habría que modificar los tests o el puerto en VS.
 3. La aplicación se tiene que desplegar desde la pagina `inicio.aspx`.
-4. No modificar la estructura del código para el correcto despliegue.
+4. Leer el fichero `README.txt` de `UBUWareHouse10/wwwTests`.
+5. No modificar la estructura del código para el correcto despliegue.
 
 --------------------------------------------------------------------------------
