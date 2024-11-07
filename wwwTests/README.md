@@ -12,12 +12,13 @@
 
    ```
    /UBUWhareHouse10
-   ├── ./cypress
-   ├── ./node_modules
-   ├── ./cypress.config.js
-   ├── ./package.json
-   ├── ./package-lock.json
-   └── ./README.md
+      ├──./wwwTests
+         ├── ./cypress
+         ├── ./node_modules
+         ├── ./cypress.config.js
+         ├── ./package.json
+         ├── ./package-lock.json
+         └── ./README.md
    ```
 
 ## Instalación de Cypress
