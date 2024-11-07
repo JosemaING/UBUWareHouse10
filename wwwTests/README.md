@@ -48,7 +48,7 @@ En la base de datos (BBDD) existen usuarios configurados para realizar los tests
 | tblUsuarios[0] | Ismael Manzanera López   | iml1012@alu.ubu.es      | Estudiante1  | No        | No     | 0   | Ismael no es gestor y está deshabilitado. |
 | tblUsuarios[1] | Jose Maria Santos Romero | jsr1002@alu.ubu.es      | Estudiante2  | Sí        | Sí     | 1   | Jose Maria es gestor, tiene la contraseña caducada. |
 | tblUsuarios[2] | Pedro Renedo Fernandez   | prenedo@ubu.es          | Profesor1    | No        | Sí     | 2   | Pedro tiene cuenta gratuita y está habilitado. |
-| tblUsuarios[3] | Ana Gimenez Bernal       | agb1111@alu.ubu.es      | Estudiante3  | sí        | Sí     | 3   | Ana es gestora y está habilitada. |
+| tblUsuarios[3] | Ana Gimenez Bernal       | agb1111@alu.ubu.es      | Estudiante3  | Sí        | Sí     | 3   | Ana es gestora y está habilitada. |
 
 ### Detalles Adicionales de Configuración
 
