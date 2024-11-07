@@ -1,0 +1,46 @@
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\UBULibTests.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\UBULibTests.pdb
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\UBULib.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\UBULib.pdb
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\obj\Debug\UBULibTests.csproj.AssemblyReference.cache
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\obj\Debug\UBULibTests.csproj.CoreCompileInputs.cache
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\obj\Debug\UBULibTe.54121884.Up2Date
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\obj\Debug\UBULibTests.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBULibTests\obj\Debug\UBULibTests.pdb
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\UBULibTests.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\UBULibTests.pdb
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\UBULib.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\UBULib.pdb
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\obj\Debug\UBULibTests.csproj.AssemblyReference.cache
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\obj\Debug\UBULibTests.csproj.CoreCompileInputs.cache
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\obj\Debug\UBULibTe.54121884.Up2Date
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\obj\Debug\UBULibTests.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBULibTests\obj\Debug\UBULibTests.pdb

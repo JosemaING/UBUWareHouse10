@@ -1,0 +1,448 @@
+03/11/2024 12:19:25 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 12:19:27 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 12:19:30 - Usuario: jsr1002@alu.ubu.es - Evento: Nota creada con éxito.
+03/11/2024 12:19:58 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario editado: iml1012@alu.ubu.es
+03/11/2024 12:20:04 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario creado correctamente.
+03/11/2024 12:20:16 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario eliminado: iml101asdddas2@alu.ubu.es
+03/11/2024 12:20:31 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario eliminado: iml101asdddas2@alu.ubu.es
+03/11/2024 12:20:41 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario eliminado: iml101asdddas2@alu.ubu.es
+03/11/2024 12:20:51 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario eliminado: iml101asdddas2@alu.ubu.es
+03/11/2024 12:20:56 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario eliminado: iml101asdddas2@alu.ubu.es
+03/11/2024 12:21:09 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 12:21:41 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario eliminado: iml101asdddas2@alu.ubu.es
+03/11/2024 12:21:53 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario eliminado: iml101asdddas2@alu.ubu.es
+03/11/2024 12:32:18 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 12:32:27 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario creado correctamente.
+03/11/2024 12:32:30 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario eliminado: asddas
+03/11/2024 12:32:39 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario creado correctamente.
+03/11/2024 12:39:46 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 12:39:55 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 12:40:01 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario creado correctamente.
+03/11/2024 12:40:04 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario eliminado: 
+03/11/2024 12:40:14 - Usuario: jsr1002@alu.ubu.es - Evento: Usuario desconectado: 
+03/11/2024 12:59:56 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+03/11/2024 13:00:01 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:00:03 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+03/11/2024 13:02:29 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:02:34 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:02:39 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:02:40 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+03/11/2024 13:02:50 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:02:55 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:02:57 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+03/11/2024 13:04:24 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:04:29 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:04:31 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+03/11/2024 13:05:08 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:05:15 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:08:04 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:08:05 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:08:07 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+03/11/2024 13:10:23 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:10:24 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:10:25 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+03/11/2024 13:32:36 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 13:32:41 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:38:19 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 13:38:20 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:40:55 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:41:24 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 13:41:25 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:45:30 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:45:51 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 13:45:52 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:45:57 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:49:12 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:49:17 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:49:22 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:49:27 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:52:27 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:52:35 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 13:52:36 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:52:41 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:54:02 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:54:20 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 13:54:21 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:54:26 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:55:44 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:55:59 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 13:56:00 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:56:05 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 13:57:24 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 13:57:24 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:57:25 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 13:57:26 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 13:57:31 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 14:00:55 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 14:01:13 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 14:01:14 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 14:01:15 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 14:01:16 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 14:01:17 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 14:02:28 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 14:02:29 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 14:02:30 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 14:02:31 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 14:02:31 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 14:04:46 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 14:04:47 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+03/11/2024 14:04:48 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+03/11/2024 14:05:08 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 14:05:09 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 14:05:10 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+03/11/2024 14:05:11 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+03/11/2024 14:05:11 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+04/11/2024 18:50:17 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+04/11/2024 18:50:25 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+04/11/2024 18:50:29 - Usuario: jsr1002@alu.ubu.es - Evento: Nota creada con éxito.
+04/11/2024 18:50:30 - Usuario: jsr1002@alu.ubu.es - Evento: Nota creada con éxito.
+04/11/2024 18:50:31 - Usuario: jsr1002@alu.ubu.es - Evento: Nota creada con éxito.
+04/11/2024 18:50:32 - Usuario: jsr1002@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 17:51:51 - Usuario: hola@hola.com - Evento: Se ha registrado correctamente.
+05/11/2024 18:13:56 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 18:13:57 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 18:13:58 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+05/11/2024 18:22:01 - Usuario: nuevo.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 18:22:07 - Usuario: seguro.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 18:23:59 - Usuario: nuevo.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 18:24:00 - Usuario: nuevo.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 18:24:02 - Usuario: seguro.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 18:30:20 - Usuario: nuevo.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 18:30:21 - Usuario: nuevo.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 18:30:22 - Usuario: seguro.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 18:30:24 - Usuario: seguro.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:12:39 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:14:10 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+05/11/2024 19:14:11 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:14:12 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:14:13 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+05/11/2024 19:14:14 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:14:17 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:14:18 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:14:19 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:14:35 - Usuario: nuevo.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 19:14:36 - Usuario: nuevo.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:14:38 - Usuario: seguro.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 19:14:39 - Usuario: seguro.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:14:42 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:14:46 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:14:51 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:14:52 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:14:53 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:15:17 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:15:17 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:15:18 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:19:08 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:19:09 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:19:10 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:19:11 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:19:13 - Usuario: agb1111@alu.ubu.es - Evento: No ha seleccionado una nota para su edición
+05/11/2024 19:19:18 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:19:19 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:19:20 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:19:21 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:19:22 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:19:23 - Usuario: prenedo@ubu.es - Evento: No puede crear una nota porque ha llegado al límite.
+05/11/2024 19:19:24 - Usuario: prenedo@ubu.es - Evento: No ha seleccionado una nota para su edición
+05/11/2024 19:25:22 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:25:23 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:25:24 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:25:25 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:25:26 - Usuario: agb1111@alu.ubu.es - Evento: No ha seleccionado una nota para su edición
+05/11/2024 19:25:31 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:25:32 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:25:33 - Usuario: prenedo@ubu.es - Evento: No puede crear una nota porque ha llegado al límite.
+05/11/2024 19:28:54 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:28:55 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:28:56 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:28:57 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:28:58 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:28:59 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:29:00 - Usuario: agb1111@alu.ubu.es - Evento: Nota editada correctamente, titulo: Nota Editada con ID: 0
+05/11/2024 19:29:01 - Usuario: agb1111@alu.ubu.es - Evento: Se ha eliminado la nota con ID: 0
+05/11/2024 19:29:01 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:29:02 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:29:03 - Usuario: prenedo@ubu.es - Evento: No puede crear una nota porque ha llegado al límite.
+05/11/2024 19:29:57 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:29:58 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:29:59 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:30:00 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:30:01 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:30:02 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:30:03 - Usuario: agb1111@alu.ubu.es - Evento: Nota editada correctamente, titulo: Nota Editada con ID: 0
+05/11/2024 19:30:03 - Usuario: agb1111@alu.ubu.es - Evento: Se ha eliminado la nota con ID: 0
+05/11/2024 19:30:04 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:30:05 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:30:06 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:30:07 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:30:08 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:30:09 - Usuario: prenedo@ubu.es - Evento: No puede crear una nota porque ha llegado al límite.
+05/11/2024 19:30:10 - Usuario: prenedo@ubu.es - Evento: Nota editada correctamente, titulo: Nota Editada con ID: 0
+05/11/2024 19:30:10 - Usuario: prenedo@ubu.es - Evento: Se ha eliminado la nota con ID: 0
+05/11/2024 19:31:03 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+05/11/2024 19:31:04 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:31:05 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:31:05 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+05/11/2024 19:31:06 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:31:12 - Usuario: nuevo.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 19:31:13 - Usuario: nuevo.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:31:15 - Usuario: seguro.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 19:31:16 - Usuario: seguro.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:31:19 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:31:20 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:31:20 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:31:25 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+05/11/2024 19:31:43 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:31:44 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:31:46 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+05/11/2024 19:31:54 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+05/11/2024 19:31:55 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:31:56 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:31:56 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+05/11/2024 19:31:57 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:32:04 - Usuario: nuevo.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 19:32:05 - Usuario: nuevo.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:32:06 - Usuario: seguro.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 19:32:07 - Usuario: seguro.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:32:10 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:32:11 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:32:12 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:32:13 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:32:14 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:32:15 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:32:16 - Usuario: agb1111@alu.ubu.es - Evento: Nota editada correctamente, titulo: Nota Editada con ID: 0
+05/11/2024 19:32:17 - Usuario: agb1111@alu.ubu.es - Evento: Se ha eliminado la nota con ID: 0
+05/11/2024 19:32:17 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:32:18 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:32:19 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:32:20 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:32:21 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 19:32:22 - Usuario: prenedo@ubu.es - Evento: No puede crear una nota porque ha llegado al límite.
+05/11/2024 19:32:23 - Usuario: prenedo@ubu.es - Evento: Nota editada correctamente, titulo: Nota Editada con ID: 0
+05/11/2024 19:32:24 - Usuario: prenedo@ubu.es - Evento: Se ha eliminado la nota con ID: 0
+05/11/2024 19:33:25 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:33:26 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:36:17 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:36:18 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:36:19 - Usuario: jsr1002@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 19:36:23 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+05/11/2024 19:45:24 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:45:26 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 19:45:31 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:45:32 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:46:25 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:46:27 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 19:46:27 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+05/11/2024 19:46:28 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:46:29 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:46:30 - Usuario: prenedo@ubu.es - Evento: Usuario editado: prenedo@ubu.es
+05/11/2024 19:50:16 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:50:17 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 19:50:18 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+05/11/2024 19:50:18 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:56:01 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:56:03 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 19:56:03 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+05/11/2024 19:56:04 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:56:05 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:56:07 - Usuario: prenedo@ubu.es - Evento: Ha intentado crear un usuario, pero no tiene permisos
+05/11/2024 19:56:07 - Usuario: prenedo@ubu.es - Evento: Usuario editado: prenedo@ubu.es
+05/11/2024 19:57:31 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:57:33 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 19:57:33 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+05/11/2024 19:57:34 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:57:54 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:57:55 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 19:57:55 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+05/11/2024 19:57:56 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:57:57 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:57:59 - Usuario: prenedo@ubu.es - Evento: Ha intentado crear un usuario, pero no tiene permisos
+05/11/2024 19:57:59 - Usuario: prenedo@ubu.es - Evento: Ha intentado crear un usuario, pero no tiene permisos
+05/11/2024 19:58:17 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:58:25 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:58:27 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 19:58:27 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+05/11/2024 19:58:28 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:58:29 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:58:30 - Usuario: prenedo@ubu.es - Evento: Ha intentado crear un usuario, pero no tiene permisos
+05/11/2024 19:58:31 - Usuario: prenedo@ubu.es - Evento: Usuario editado: prenedo@ubu.es
+05/11/2024 19:59:32 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:59:34 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 19:59:34 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+05/11/2024 19:59:35 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:59:36 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:59:45 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:59:47 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 19:59:47 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+05/11/2024 19:59:48 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 19:59:49 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:09 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:10 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 20:00:12 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+05/11/2024 20:00:19 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+05/11/2024 20:00:20 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:21 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:21 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+05/11/2024 20:00:22 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:27 - Usuario: nuevo.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 20:00:28 - Usuario: nuevo.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:30 - Usuario: seguro.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 20:00:31 - Usuario: seguro.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:34 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:34 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:00:35 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:00:36 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:00:37 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:00:39 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:00:40 - Usuario: agb1111@alu.ubu.es - Evento: Nota editada correctamente, titulo: Nota Editada con ID: 0
+05/11/2024 20:00:40 - Usuario: agb1111@alu.ubu.es - Evento: Se ha eliminado la nota con ID: 0
+05/11/2024 20:00:41 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:42 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:43 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:00:44 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:00:45 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:00:46 - Usuario: prenedo@ubu.es - Evento: No puede crear una nota porque ha llegado al límite.
+05/11/2024 20:00:47 - Usuario: prenedo@ubu.es - Evento: Nota editada correctamente, titulo: Nota Editada con ID: 0
+05/11/2024 20:00:47 - Usuario: prenedo@ubu.es - Evento: Se ha eliminado la nota con ID: 0
+05/11/2024 20:00:50 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:52 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 20:00:52 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+05/11/2024 20:00:53 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:54 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:00:55 - Usuario: prenedo@ubu.es - Evento: Ha intentado crear un usuario, pero no tiene permisos
+05/11/2024 20:00:56 - Usuario: prenedo@ubu.es - Evento: Usuario editado: prenedo@ubu.es
+05/11/2024 20:02:23 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:04:36 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:04:37 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+05/11/2024 20:04:39 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+05/11/2024 20:04:50 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+05/11/2024 20:04:50 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:04:51 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:04:52 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+05/11/2024 20:04:53 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:04:58 - Usuario: nuevo.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 20:04:59 - Usuario: nuevo.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:05:01 - Usuario: seguro.usuario@ubu.es - Evento: Se ha registrado correctamente.
+05/11/2024 20:05:02 - Usuario: seguro.usuario@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:05:08 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:05:09 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:05:10 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:05:11 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:05:12 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:05:13 - Usuario: agb1111@alu.ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:05:14 - Usuario: agb1111@alu.ubu.es - Evento: Nota editada correctamente, titulo: Nota Editada con ID: 0
+05/11/2024 20:05:14 - Usuario: agb1111@alu.ubu.es - Evento: Se ha eliminado la nota con ID: 0
+05/11/2024 20:05:15 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:05:16 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:05:17 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:05:18 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:05:19 - Usuario: prenedo@ubu.es - Evento: Nota creada con éxito.
+05/11/2024 20:05:20 - Usuario: prenedo@ubu.es - Evento: No puede crear una nota porque ha llegado al límite.
+05/11/2024 20:05:21 - Usuario: prenedo@ubu.es - Evento: Nota editada correctamente, titulo: Nota Editada con ID: 0
+05/11/2024 20:05:21 - Usuario: prenedo@ubu.es - Evento: Se ha eliminado la nota con ID: 0
+05/11/2024 20:05:27 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:05:28 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 20:05:29 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+05/11/2024 20:05:30 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:05:31 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:05:32 - Usuario: prenedo@ubu.es - Evento: Ha intentado crear un usuario, pero no tiene permisos
+05/11/2024 20:05:33 - Usuario: prenedo@ubu.es - Evento: Usuario editado: prenedo@ubu.es
+05/11/2024 20:05:40 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:05:41 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+05/11/2024 20:05:42 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+05/11/2024 20:05:42 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:05:43 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+05/11/2024 20:05:45 - Usuario: prenedo@ubu.es - Evento: Ha intentado crear un usuario, pero no tiene permisos
+05/11/2024 20:05:45 - Usuario: prenedo@ubu.es - Evento: Usuario editado: prenedo@ubu.es
+06/11/2024 20:21:31 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+06/11/2024 20:21:36 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:21:41 - Usuario: jsr1002@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:21:43 - Usuario: jsr1002@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:21:45 - Usuario: jsr1002@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:21:46 - Usuario: jsr1002@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:21:48 - Usuario: jsr1002@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:21:50 - Usuario: jsr1002@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:21:51 - Usuario: jsr1002@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:21:52 - Usuario: jsr1002@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:22:09 - Usuario: jsr1002@alu.ubu.es - Evento: Se ha desconectado.
+06/11/2024 20:51:31 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:51:36 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+06/11/2024 20:51:38 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+06/11/2024 20:52:44 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:52:49 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+06/11/2024 20:53:24 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:53:29 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+06/11/2024 20:53:31 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+06/11/2024 20:53:32 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:53:37 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+06/11/2024 20:53:38 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+06/11/2024 20:54:49 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:54:51 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+06/11/2024 20:54:53 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+06/11/2024 20:55:34 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+06/11/2024 20:55:35 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:55:36 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:55:37 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+06/11/2024 20:55:38 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:56:01 - Usuario: nuevo.usuario@ubu.es - Evento: Se ha registrado correctamente.
+06/11/2024 20:56:03 - Usuario: nuevo.usuario@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:56:04 - Usuario: seguro.usuario@ubu.es - Evento: Se ha registrado correctamente.
+06/11/2024 20:56:05 - Usuario: seguro.usuario@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:56:24 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:56:25 - Usuario: agb1111@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:56:26 - Usuario: agb1111@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:56:27 - Usuario: agb1111@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:56:28 - Usuario: agb1111@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:56:29 - Usuario: agb1111@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:56:30 - Usuario: agb1111@alu.ubu.es - Evento: Articulo editado correctamente, titulo: Articulo Editado con ID: 0
+06/11/2024 20:56:31 - Usuario: agb1111@alu.ubu.es - Evento: Se ha eliminado el articulo con ID: 0
+06/11/2024 20:56:31 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:56:33 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:56:33 - Usuario: prenedo@ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:56:35 - Usuario: prenedo@ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:56:36 - Usuario: prenedo@ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 20:56:37 - Usuario: prenedo@ubu.es - Evento: No puede crear un articulo porque ha llegado al límite.
+06/11/2024 20:56:38 - Usuario: prenedo@ubu.es - Evento: Articulo editado correctamente, titulo: Articulo Editado con ID: 0
+06/11/2024 20:56:38 - Usuario: prenedo@ubu.es - Evento: Se ha eliminado el articulo con ID: 0
+06/11/2024 20:56:56 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:56:57 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+06/11/2024 20:56:58 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+06/11/2024 20:56:59 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:57:00 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 20:57:01 - Usuario: prenedo@ubu.es - Evento: Ha intentado crear un usuario, pero no tiene permisos
+06/11/2024 20:57:02 - Usuario: prenedo@ubu.es - Evento: Usuario editado: prenedo@ubu.es
+06/11/2024 21:09:11 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:09:12 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión con contraseña incorrecta
+06/11/2024 21:09:13 - Usuario: iml1012@alu.ubu.es - Evento: Intento de inicio de sesión fallido: usuario deshabilitado
+06/11/2024 21:09:27 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+06/11/2024 21:09:27 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:09:28 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:09:29 - Usuario: jsr1002@alu.ubu.es - Evento: Ha cambiado su contraseña con éxito.
+06/11/2024 21:09:30 - Usuario: jsr1002@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:09:38 - Usuario: nuevo.usuario@ubu.es - Evento: Se ha registrado correctamente.
+06/11/2024 21:09:39 - Usuario: nuevo.usuario@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:09:41 - Usuario: seguro.usuario@ubu.es - Evento: Se ha registrado correctamente.
+06/11/2024 21:09:42 - Usuario: seguro.usuario@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:09:52 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:09:53 - Usuario: agb1111@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 21:09:54 - Usuario: agb1111@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 21:09:55 - Usuario: agb1111@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 21:09:57 - Usuario: agb1111@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 21:09:58 - Usuario: agb1111@alu.ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 21:09:59 - Usuario: agb1111@alu.ubu.es - Evento: Articulo editado correctamente, titulo: Articulo Editado con ID: 0
+06/11/2024 21:09:59 - Usuario: agb1111@alu.ubu.es - Evento: Se ha eliminado el articulo con ID: 0
+06/11/2024 21:10:00 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:10:01 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:10:02 - Usuario: prenedo@ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 21:10:03 - Usuario: prenedo@ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 21:10:04 - Usuario: prenedo@ubu.es - Evento: Articulo creado con éxito.
+06/11/2024 21:10:05 - Usuario: prenedo@ubu.es - Evento: No puede crear un articulo porque ha llegado al límite.
+06/11/2024 21:10:07 - Usuario: prenedo@ubu.es - Evento: Articulo editado correctamente, titulo: Articulo Editado con ID: 0
+06/11/2024 21:10:07 - Usuario: prenedo@ubu.es - Evento: Se ha eliminado el articulo con ID: 0
+06/11/2024 21:10:10 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:10:11 - Usuario: agb1111@alu.ubu.es - Evento: Usuario creado correctamente.
+06/11/2024 21:10:11 - Usuario: agb1111@alu.ubu.es - Evento: Usuario eliminado: usuarioparaborrar@ubu.es
+06/11/2024 21:10:12 - Usuario: agb1111@alu.ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:10:13 - Usuario: prenedo@ubu.es - Evento: Inicio de sesión exitoso
+06/11/2024 21:10:15 - Usuario: prenedo@ubu.es - Evento: Ha intentado crear un usuario, pero no tiene permisos
+06/11/2024 21:10:15 - Usuario: prenedo@ubu.es - Evento: Usuario editado: prenedo@ubu.es

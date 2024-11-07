@@ -1,0 +1,18 @@
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\ClassLib\obj\Debug\ClassLib.csproj.AssemblyReference.cache
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\ClassLib\bin\Debug\UBULib.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\ClassLib\bin\Debug\UBULib.pdb
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\ClassLib\obj\Debug\ClassLib.csproj.Up2Date
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\ClassLib\obj\Debug\ClassLib.pdb
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\ClassLib\bin\Debug\ClassLib.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\ClassLib\bin\Debug\ClassLib.pdb
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\ClassLib\bin\Debug\UBULib.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\ClassLib\bin\Debug\UBULib.pdb
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\ClassLib\obj\Debug\ClassLib.csproj.AssemblyReference.cache
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\ClassLib\obj\Debug\ClassLib.csproj.Up2Date
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\ClassLib\obj\Debug\ClassLib.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\ClassLib\obj\Debug\ClassLib.pdb

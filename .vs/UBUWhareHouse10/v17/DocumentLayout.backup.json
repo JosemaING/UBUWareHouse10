@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josema\\source\\repos\\JosemaING\\UBUWhareHouse10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A616100-5443-4963-8E3B-AB513497D71A}|www\\www.csproj|c:\\users\\josema\\source\\repos\\josemaing\\ubuwharehouse10\\www\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4A616100-5443-4963-8E3B-AB513497D71A}|www\\www.csproj|solutionrelative:www\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A616100-5443-4963-8E3B-AB513497D71A}|www\\www.csproj|c:\\users\\josema\\source\\repos\\josemaing\\ubuwharehouse10\\www\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A616100-5443-4963-8E3B-AB513497D71A}|www\\www.csproj|solutionrelative:www\\inicio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 59,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inicio.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Josema\\source\\repos\\JosemaING\\UBUWhareHouse10\\www\\inicio.aspx.cs",
+              "RelativeDocumentMoniker": "www\\inicio.aspx.cs",
+              "ToolTip": "C:\\Users\\Josema\\source\\repos\\JosemaING\\UBUWhareHouse10\\www\\inicio.aspx.cs",
+              "RelativeToolTip": "www\\inicio.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:59:16.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\Josema\\source\\repos\\JosemaING\\UBUWhareHouse10\\www\\inicio.aspx",
+              "RelativeDocumentMoniker": "www\\inicio.aspx",
+              "ToolTip": "C:\\Users\\Josema\\source\\repos\\JosemaING\\UBUWhareHouse10\\www\\inicio.aspx",
+              "RelativeToolTip": "www\\inicio.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T19:50:51.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

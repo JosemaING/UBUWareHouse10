@@ -1,0 +1,24 @@
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\WHdb\obj\Debug\UBUWHdb.csproj.AssemblyReference.cache
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\WHdb\obj\Debug\UBUWHdb.csproj.CoreCompileInputs.cache
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBUWHdb\obj\Debug\UBUWHdb.csproj.AssemblyReference.cache
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBUWHdb\obj\Debug\UBUWHdb.csproj.CoreCompileInputs.cache
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBUWHdb\bin\Debug\WHdb.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBUWHdb\bin\Debug\WHdb.pdb
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBUWHdb\bin\Debug\ClassLib.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBUWHdb\bin\Debug\UBULib.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBUWHdb\bin\Debug\ClassLib.pdb
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBUWHdb\bin\Debug\UBULib.pdb
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBUWHdb\obj\Debug\UBUWHdb.csproj.Up2Date
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBUWHdb\obj\Debug\WHdb.dll
+C:\Users\Josema\source\repos\JosemaING\UBUWhareHouse10\UBUWHdb\obj\Debug\WHdb.pdb
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBUWHdb\bin\Debug\WHdb.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBUWHdb\bin\Debug\WHdb.pdb
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBUWHdb\bin\Debug\ClassLib.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBUWHdb\bin\Debug\UBULib.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBUWHdb\bin\Debug\ClassLib.pdb
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBUWHdb\bin\Debug\UBULib.pdb
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBUWHdb\obj\Debug\UBUWHdb.csproj.AssemblyReference.cache
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBUWHdb\obj\Debug\UBUWHdb.csproj.CoreCompileInputs.cache
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBUWHdb\obj\Debug\UBUWHdb.csproj.Up2Date
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBUWHdb\obj\Debug\WHdb.dll
+D:\Estudios\Visual Studio Community\Practica 1\UBUWhareHouse10\UBUWHdb\obj\Debug\WHdb.pdb
