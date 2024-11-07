@@ -1,16 +1,34 @@
 ﻿using System.Collections.Generic;
 using System;
+using System.IO;
 
 namespace ClassLib
 {
     public class Logger
     {
+        // Lista de entradas que tendrá los eventos ocurridos
         private List<EntradaLog> _logs = new List<EntradaLog>();
+        // Ruta de nuestro fichero log.txt
         private string _rutaLog;
 
-        // Constructor que recibe la ruta como parámetro
-        public Logger(string rutaLog = "D:\\Estudios\\Visual Studio Community\\Practica 1\\UBUWhareHouse10\\log.txt")
+        /// <summary>
+        /// Inicializa una nueva instancia del logger <see cref="Logger"/> con la ruta del fichero log.
+        /// </summary>
+        /// <param name="rutaLog">Ruta absoluta de nuestro fichero log.txt.</param>
+        /// <remarks>
+        /// Este constructor permite crear un logger que se encarga de registrar y escribir 
+        /// los eventos ocurridos en nuestra web, en este caso usamos una ruta relativa, 
+        /// por eso se le pasa el parámmetro null, también se podría modificar y escribir la ruta absoluta.
+        /// </remarks>
+        public Logger(string rutaLog = null)
         {
+            // Movemos un nivel hacia arriba si el directorio base es "www"
+            var baseDirectory = AppDomain.CurrentDomain.BaseDirectory; // Ruta actual, es WareHouse10/www
+            var rootDirectory = Directory.GetParent(Directory.GetParent(baseDirectory).FullName).FullName; // Guardamos el directorio raiz, es /WareHouse10
+
+            // Definimos la ruta del archivo log en la raíz del proyecto (/WareHouse10)
+            rutaLog = rutaLog ?? Path.Combine(rootDirectory, "log.txt");
+
             // Usa la ruta especificada o, si está vacía, la carpeta Documentos
             _rutaLog = string.IsNullOrEmpty(rutaLog)
                 ? System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "log.txt")
